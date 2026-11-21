@@ -51,3 +51,30 @@ Bonus features
 
 
 The React frontend will communicate with ASP.NET Core through HTTP REST endpoints. RTK Query will manage API calls, caching, loading states, and cache invalidation.
+
+<img width="2100" height="1666" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/7ca81963-23c3-4d23-a3ea-56ee7612dd1f" />
+
+Core automated testing coverage
+- [x] Get all leads
+- [x] Search leads
+- [x] Filter by status
+- [x] Invalid status handling
+- [x] Get lead by ID
+- [x] Lead not found
+- [x] Create lead
+- [x] Invalid lead source
+- [x] Invalid lead status
+- [x] Update lead
+- [x] Delete lead
+- [x] Required fields
+- [x] Email validation
+- [x] Phone validation
+- [x] React form rendering
+- [x] React form submission
+- [x] React form cancellation
+- [x] Search input
+- [x] Status filter
+- [x] Loading/error/empty states
+- [x] Edit modal
+- [x] Delete confirmation
+- [x] GitHub Actions test automation
